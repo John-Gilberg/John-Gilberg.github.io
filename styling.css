@@ -3,10 +3,10 @@ ul.nav {
   background-color: teal;
 	position: fixed;
  	top: 0;
-	padding-left: 0;
+  padding-left: 0;
 	padding-right: 0;
-	left: 0;
-	width: 100%;
+  right: 16.6;
+  width: 80.4%;
 }
 
 li.nav {

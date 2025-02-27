@@ -1,9 +1,42 @@
-body {
-  background-color: #D5C6E0;
+ul.nav {
+	list-style-type: none;
+  background-color: darkcyan;
+	position: fixed;
+ 	top: 0;
+	padding-left: 0;
+	padding-right: 0;
+	left: 0;
+	width: 100%;
 }
-h1 {
-  text-align:center;
-  color: yellow;
-  font-family: "Garamond", serif;
-  fint-size: 2em;
+
+li.nav {
+  float: left;
+}
+
+li.nav a {
+  font-family: "Arial", serif;
+	font-size: 1.5em;
+	display: block;
+    color: lightgreen;
+  	text-align: center;
+    padding: 12px 36px;
+  	text-decoration: none;
+}
+
+li.nav a:hover {
+  background-color: darkblue;
+}
+
+ul.nodot {
+	list-style-type: none;
+	margin-left: 8%;
+}
+
+header.resume {
+	padding-top: 5%;
+	text-align: center;
+}
+
+td.right {
+	padding-left: 25;
 }

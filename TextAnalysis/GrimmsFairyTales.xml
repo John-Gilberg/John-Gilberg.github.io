@@ -1,660 +1,561 @@
-HANSEL AND GRETEL
+<?xml version="1.0" encoding="UTF-8"?>
+  <text>
+    <title>THE BROTHERS GRIMM FAIRY TALES</title>
+    <author name="Jacob and Wilhelm Grimm"></author>
 
-Hard by a great forest dwelt a poor wood-cutter with his wife and his
-two children. The boy was called Hansel and the girl Gretel. He had
-little to bite and to break, and once when great dearth fell on the
+<story>
+<title>Hansel AND Gretel</title>
+
+<p>Hard by a great forest dwelt a poor <character name="Father" role="woodcutter">wood-cutter</character> with his <character name="Stepmother" role="villain">wife</character> and his
+two children. The boy was called <character name="Hansel" role="older sibling">Hansel</character> and the girl <character name="Gretel" role="younger sibling">Gretel</character>. He had
+little to bite and to break, and once when great <define>dearth</define> fell on the
 land, he could no longer procure even daily bread. Now when he thought
 over this by night in his bed, and tossed about in his anxiety, he
-groaned and said to his wife: ‘What is to become of us? How are we
+groaned and said to his <character name="Stepmother" role="villain">wife</character>: <dialog>‘What is to become of us? How are we
 to feed our poor children, when we no longer have anything even for
-ourselves?’ ‘I’ll tell you what, husband,’ answered the woman, ‘early
+ourselves?’ ‘I’ll tell you what, husband,’</dialog> answered the <character name="Stepmother" role="villain">woman</character>, <dialog>‘early
 tomorrow morning we will take the children out into the forest to where
 it is the thickest; there we will light a fire for them, and give each
 of them one more piece of bread, and then we will go to our work and
 leave them alone. They will not find the way home again, and we shall be
-rid of them.’ ‘No, wife,’ said the man, ‘I will not do that; how can I
+rid of them.’ ‘No, wife,’</dialog> said the <character name="Father" role="woodcutter">man</character>, <dialog>‘I will not do that; how can I
 bear to leave my children alone in the forest?--the wild animals would
-soon come and tear them to pieces.’ ‘O, you fool!’ said she, ‘then we
+soon come and tear them to pieces.’ ‘O, you fool!’</dialog> said she, <dialog>‘then we
 must all four die of hunger, you may as well plane the planks for our
-coffins,’ and she left him no peace until he consented. ‘But I feel very
-sorry for the poor children, all the same,’ said the man.
+coffins,’</dialog> and she left him no peace until he consented. <dialog>‘But I feel very
+sorry for the poor children, all the same,’</dialog> said the <character name="Father" role="woodcutter">man</character>.</p>
 
-The two children had also not been able to sleep for hunger, and had
-heard what their stepmother had said to their father. Gretel wept
-bitter tears, and said to Hansel: ‘Now all is over with us.’ ‘Be quiet,
-Gretel,’ said Hansel, ‘do not distress yourself, I will soon find a way
-to help us.’ And when the old folks had fallen asleep, he got up, put
+<p>The two children had also not been able to sleep for hunger, and had
+heard what their <character name="Stepmother" role="villain">stepmother</character> had said to their <character name="Father" role="woodcutter">father</character>. <character name="Gretel" role="younger sibling">Gretel</character> wept
+bitter tears, and said to <character name="Hansel" role="older sibling">Hansel</character>: <dialog>‘Now all is over with us.’ ‘Be quiet,
+<character name="Gretel" role="younger sibling">Gretel</character>,’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, <dialog>‘do not distress yourself, I will soon find a way
+to help us.’</dialog> And when the old folks had fallen asleep, he got up, put
 on his little coat, opened the door below, and crept outside. The moon
 shone brightly, and the white pebbles which lay in front of the house
-glittered like real silver pennies. Hansel stooped and stuffed the
+glittered like real silver pennies. <character name="Hansel" role="older sibling">Hansel</character> stooped and stuffed the
 little pocket of his coat with as many as he could get in. Then he went
-back and said to Gretel: ‘Be comforted, dear little sister, and sleep in
-peace, God will not forsake us,’ and he lay down again in his bed. When
-day dawned, but before the sun had risen, the woman came and awoke the
-two children, saying: ‘Get up, you sluggards! we are going into the
-forest to fetch wood.’ She gave each a little piece of bread, and said:
-‘There is something for your dinner, but do not eat it up before then,
-for you will get nothing else.’ Gretel took the bread under her apron,
-as Hansel had the pebbles in his pocket. Then they all set out together
-on the way to the forest. When they had walked a short time, Hansel
+back and said to <character name="Gretel" role="younger sibling">Gretel</character>: <dialog>‘Be comforted, dear little sister, and sleep in
+peace, God will not forsake us,’</dialog> and he lay down again in his bed. When
+day dawned, but before the sun had risen, the <character name="Stepmother" role="villain">woman</character> came and awoke the
+two children, saying: <dialog>‘Get up, you <define>sluggards</define>! we are going into the
+forest to fetch wood.’</dialog> She gave each a little piece of bread, and said:
+<dialog>‘There is something for your dinner, but do not eat it up before then,
+for you will get nothing else.’</dialog> <character name="Gretel" role="younger sibling">Gretel</character> took the bread under her apron,
+as <character name="Hansel" role="older sibling">Hansel</character> had the pebbles in his pocket. Then they all set out together
+on the way to the forest. When they had walked a short time, <character name="Hansel" role="older sibling">Hansel</character>
 stood still and peeped back at the house, and did so again and again.
-His father said: ‘Hansel, what are you looking at there and staying
+His <character name="Father" role="woodcutter">father</character> said: <dialog>‘<character name="Hansel" role="older sibling">Hansel</character>, what are you looking at there and staying
 behind for? Pay attention, and do not forget how to use your legs.’ ‘Ah,
-father,’ said Hansel, ‘I am looking at my little white cat, which is
-sitting up on the roof, and wants to say goodbye to me.’ The wife said:
-‘Fool, that is not your little cat, that is the morning sun which is
-shining on the chimneys.’ Hansel, however, had not been looking back at
+father,’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, <dialog>‘I am looking at my little white cat, which is
+sitting up on the roof, and wants to say goodbye to me.’</dialog> The wife said:
+<dialog>‘Fool, that is not your little cat, that is the morning sun which is
+shining on the chimneys.’</dialog> <character name="Hansel" role="older sibling">Hansel</character>, however, had not been looking back at
 the cat, but had been constantly throwing one of the white pebble-stones
-out of his pocket on the road.
+out of his pocket on the road.</p>
 
-When they had reached the middle of the forest, the father said: ‘Now,
+<p>When they had reached the middle of the forest, the <character name="Father" role="woodcutter">father</character> said: <dialog>‘Now,
 children, pile up some wood, and I will light a fire that you may not
-be cold.’ Hansel and Gretel gathered brushwood together, as high as a
+be cold.’</dialog> <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> gathered brushwood together, as high as a
 little hill. The brushwood was lighted, and when the flames were burning
-very high, the woman said: ‘Now, children, lay yourselves down by the
+very high, the <character name="Stepmother" role="villain">woman</character> said: <dialog>‘Now, children, lay yourselves down by the
 fire and rest, we will go into the forest and cut some wood. When we
-have done, we will come back and fetch you away.’
+have done, we will come back and fetch you away.’</dialog></p>
 
-Hansel and Gretel sat by the fire, and when noon came, each ate a little
+<p><character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> sat by the fire, and when noon came, each ate a little
 piece of bread, and as they heard the strokes of the wood-axe they
-believed that their father was near. It was not the axe, however, but
+believed that their <character name="Father" role="woodcutter">father</character> was near. It was not the axe, however, but
 a branch which he had fastened to a withered tree which the wind was
 blowing backwards and forwards. And as they had been sitting such a long
 time, their eyes closed with fatigue, and they fell fast asleep. When
-at last they awoke, it was already dark night. Gretel began to cry and
-said: ‘How are we to get out of the forest now?’ But Hansel comforted
-her and said: ‘Just wait a little, until the moon has risen, and then we
-will soon find the way.’ And when the full moon had risen, Hansel took
+at last they awoke, it was already dark night. <character name="Gretel" role="younger sibling">Gretel</character> began to cry and
+said: <dialog>‘How are we to get out of the forest now?’</dialog> But <character name="Hansel" role="older sibling">Hansel</character> comforted
+her and said: <dialog>‘Just wait a little, until the moon has risen, and then we
+will soon find the way.’</dialog> And when the full moon had risen, <character name="Hansel" role="older sibling">Hansel</character> took
 his little sister by the hand, and followed the pebbles which shone like
-newly-coined silver pieces, and showed them the way.
+newly-coined silver pieces, and showed them the way.</p>
 
-They walked the whole night long, and by break of day came once more
-to their father’s house. They knocked at the door, and when the woman
-opened it and saw that it was Hansel and Gretel, she said: ‘You naughty
+<p>They walked the whole night long, and by break of day came once more
+to their <character name="Father" role="woodcutter">father</character>’s house. They knocked at the door, and when the <character name="Stepmother" role="villain">woman</character>
+opened it and saw that it was <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character>, she said: <dialog>‘You naughty
 children, why have you slept so long in the forest?--we thought you were
-never coming back at all!’ The father, however, rejoiced, for it had cut
-him to the heart to leave them behind alone.
+never coming back at all!’</dialog> The <character name="Father" role="woodcutter">father</character>, however, rejoiced, for it had cut
+him to the heart to leave them behind alone.</p>
 
-Not long afterwards, there was once more great dearth throughout the
-land, and the children heard their mother saying at night to their
-father: ‘Everything is eaten again, we have one half loaf left, and that
+<p>Not long afterwards, there was once more great <define>dearth</define> throughout the
+land, and the children heard their <character name="Stepmother" role="villain">mother</character> saying at night to their
+<character name="Father" role="woodcutter">father</character>: <dialog>‘Everything is eaten again, we have one half loaf left, and that
 is the end. The children must go, we will take them farther into the
 wood, so that they will not find their way out again; there is no other
-means of saving ourselves!’ The man’s heart was heavy, and he thought:
+means of saving ourselves!’</dialog> The <character name="Father" role="woodcutter">man</character>’s heart was heavy, and he thought:
 ‘It would be better for you to share the last mouthful with your
-children.’ The woman, however, would listen to nothing that he had to
+children.’ The <character name="Stepmother" role="villain">woman</character>, however, would listen to nothing that he had to
 say, but scolded and reproached him. He who says A must say B, likewise,
 and as he had yielded the first time, he had to do so a second time
-also.
+also.</p>
 
-The children, however, were still awake and had heard the conversation.
-When the old folks were asleep, Hansel again got up, and wanted to go
-out and pick up pebbles as he had done before, but the woman had locked
-the door, and Hansel could not get out. Nevertheless he comforted his
-little sister, and said: ‘Do not cry, Gretel, go to sleep quietly, the
-good God will help us.’
+<p>The children, however, were still awake and had heard the conversation.
+When the old folks were asleep, <character name="Hansel" role="older sibling">Hansel</character> again got up, and wanted to go
+out and pick up pebbles as he had done before, but the <character name="Stepmother" role="villain">woman</character> had locked
+the door, and <character name="Hansel" role="older sibling">Hansel</character> could not get out. Nevertheless he comforted his
+little sister, and said: <dialog>‘Do not cry, <character name="Gretel" role="younger sibling">Gretel</character>, go to sleep quietly, the
+good God will help us.’</dialog></p>
 
-Early in the morning came the woman, and took the children out of their
+<p>Early in the morning came the <character name="Stepmother" role="villain">woman</character>, and took the children out of their
 beds. Their piece of bread was given to them, but it was still smaller
-than the time before. On the way into the forest Hansel crumbled his
+than the time before. On the way into the forest <character name="Hansel" role="older sibling">Hansel</character> crumbled his
 in his pocket, and often stood still and threw a morsel on the ground.
-‘Hansel, why do you stop and look round?’ said the father, ‘go on.’ ‘I
+<dialog>‘<character name="Hansel" role="older sibling">Hansel</character>, why do you stop and look round?’</dialog> said the <character name="Father" role="woodcutter">father</character>, <dialog>‘go on.’ ‘I
 am looking back at my little pigeon which is sitting on the roof, and
-wants to say goodbye to me,’ answered Hansel. ‘Fool!’ said the woman,
-‘that is not your little pigeon, that is the morning sun that is shining
-on the chimney.’ Hansel, however little by little, threw all the crumbs
-on the path.
+wants to say goodbye to me,’</dialog> answered <character name="Hansel" role="older sibling">Hansel</character>. <dialog>‘Fool!’</dialog> said the <character name="Stepmother" role="villain">woman</character>,
+<dialog>‘that is not your little pigeon, that is the morning sun that is shining
+on the chimney.’</dialog> <character name="Hansel" role="older sibling">Hansel</character>, however little by little, threw all the crumbs
+on the path.</p>
 
-The woman led the children still deeper into the forest, where they had
+<p>The <character name="Stepmother" role="villain">woman</character> led the children still deeper into the forest, where they had
 never in their lives been before. Then a great fire was again made, and
-the mother said: ‘Just sit there, you children, and when you are tired
+the <character name="Stepmother" role="villain">mother</character> said: <dialog>‘Just sit there, you children, and when you are tired
 you may sleep a little; we are going into the forest to cut wood, and in
-the evening when we are done, we will come and fetch you away.’ When
-it was noon, Gretel shared her piece of bread with Hansel, who had
+the evening when we are done, we will come and fetch you away.’</dialog> When
+it was noon, <character name="Gretel" role="younger sibling">Gretel</character> shared her piece of bread with <character name="Hansel" role="older sibling">Hansel</character>, who had
 scattered his by the way. Then they fell asleep and evening passed, but
 no one came to the poor children. They did not awake until it was dark
-night, and Hansel comforted his little sister and said: ‘Just wait,
-Gretel, until the moon rises, and then we shall see the crumbs of bread
-which I have strewn about, they will show us our way home again.’ When
+night, and <character name="Hansel" role="older sibling">Hansel</character> comforted his little sister and said: <dialog>‘Just wait,
+<character name="Gretel" role="younger sibling">Gretel</character>, until the moon rises, and then we shall see the crumbs of bread
+which I have strewn about, they will show us our way home again.’</dialog> When
 the moon came they set out, but they found no crumbs, for the many
 thousands of birds which fly about in the woods and fields had picked
-them all up. Hansel said to Gretel: ‘We shall soon find the way,’ but
+them all up. <character name="Hansel" role="older sibling">Hansel</character> said to <character name="Gretel" role="younger sibling">Gretel</character>: <dialog>‘We shall soon find the way,’</dialog> but
 they did not find it. They walked the whole night and all the next day
 too from morning till evening, but they did not get out of the forest,
 and were very hungry, for they had nothing to eat but two or three
 berries, which grew on the ground. And as they were so weary that their
 legs would carry them no longer, they lay down beneath a tree and fell
-asleep.
+asleep.</p>
 
-It was now three mornings since they had left their father’s house. They
+<p>It was now three mornings since they had left their <character name="Father" role="woodcutter">father</character>’s house. They
 began to walk again, but they always came deeper into the forest, and if
 help did not come soon, they must die of hunger and weariness. When it
-was mid-day, they saw a beautiful snow-white bird sitting on a bough,
+was mid-day, they saw a beautiful snow-white bird sitting on a <define>bough</define>,
 which sang so delightfully that they stood still and listened to it. And
 when its song was over, it spread its wings and flew away before them,
 and they followed it until they reached a little house, on the roof of
 which it alighted; and when they approached the little house they saw
 that it was built of bread and covered with cakes, but that the windows
-were of clear sugar. ‘We will set to work on that,’ said Hansel, ‘and
-have a good meal. I will eat a bit of the roof, and you Gretel, can eat
-some of the window, it will taste sweet.’ Hansel reached up above, and
-broke off a little of the roof to try how it tasted, and Gretel leant
+were of clear sugar. <dialog>‘We will set to work on that,’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, <dialog>‘and
+have a good meal. I will eat a bit of the roof, and you <character name="Gretel" role="younger sibling">Gretel</character>, can eat
+some of the window, it will taste sweet.’</dialog> <character name="Hansel" role="older sibling">Hansel</character> reached up above, and
+broke off a little of the roof to try how it tasted, and <character name="Gretel" role="younger sibling">Gretel</character> leant
 against the window and nibbled at the panes. Then a soft voice cried
 from the parlour:
 
- ‘Nibble, nibble, gnaw,
-  Who is nibbling at my little house?’
+ <dialog>‘Nibble, nibble, gnaw,
+  Who is nibbling at my little house?’</dialog>
 
-The children answered:
+<p>The children answered:</p>
 
- ‘The wind, the wind,
-  The heaven-born wind,’
+ <dialog>‘The wind, the wind,
+  The heaven-born wind,’</dialog></p>
 
-and went on eating without disturbing themselves. Hansel, who liked the
-taste of the roof, tore down a great piece of it, and Gretel pushed out
+<p>and went on eating without disturbing themselves. <character name="Hansel" role="older sibling">Hansel</character>, who liked the
+taste of the roof, tore down a great piece of it, and <character name="Gretel" role="younger sibling">Gretel</character> pushed out
 the whole of one round window-pane, sat down, and enjoyed herself with
-it. Suddenly the door opened, and a woman as old as the hills, who
-supported herself on crutches, came creeping out. Hansel and Gretel were
+it. Suddenly the door opened, and a <character name="Witch" role="antagonist">woman</character> as old as the hills, who
+supported herself on crutches, came creeping out. <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> were
 so terribly frightened that they let fall what they had in their
-hands. The old woman, however, nodded her head, and said: ‘Oh, you dear
+hands. The old <character name="Witch" role="antagonist">woman</character>, however, nodded her head, and said: <dialog>‘Oh, you dear
 children, who has brought you here? do come in, and stay with me. No
-harm shall happen to you.’ She took them both by the hand, and led them
+harm shall happen to you.’</dialog> She took them both by the hand, and led them
 into her little house. Then good food was set before them, milk and
 pancakes, with sugar, apples, and nuts. Afterwards two pretty little
-beds were covered with clean white linen, and Hansel and Gretel lay down
-in them, and thought they were in heaven.
+beds were covered with clean white linen, and <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> lay down
+in them, and thought they were in heaven.</p>
 
-The old woman had only pretended to be so kind; she was in reality
-a wicked witch, who lay in wait for children, and had only built the
+<p>The old <character name="Witch" role="antagonist">woman</character> had only pretended to be so kind; she was in reality
+a wicked <character name="Stepmother" role="villain">witch</character>, who lay in wait for children, and had only built the
 little house of bread in order to entice them there. When a child fell
 into her power, she killed it, cooked and ate it, and that was a feast
 day with her. Witches have red eyes, and cannot see far, but they have
 a keen scent like the beasts, and are aware when human beings draw near.
-When Hansel and Gretel came into her neighbourhood, she laughed with
-malice, and said mockingly: ‘I have them, they shall not escape me
-again!’ Early in the morning before the children were awake, she was
+When <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> came into her neighbourhood, she laughed with
+malice, and said mockingly: <dialog>‘I have them, they shall not escape me
+again!’</dialog> Early in the morning before the children were awake, she was
 already up, and when she saw both of them sleeping and looking so
-pretty, with their plump and rosy cheeks she muttered to herself: ‘That
-will be a dainty mouthful!’ Then she seized Hansel with her shrivelled
+pretty, with their plump and rosy cheeks she muttered to herself: <dialog>‘That
+will be a dainty mouthful!’</dialog> Then she seized <character name="Hansel" role="older sibling">Hansel</character> with her shrivelled
 hand, carried him into a little stable, and locked him in behind a
 grated door. Scream as he might, it would not help him. Then she went to
-Gretel, shook her till she awoke, and cried: ‘Get up, lazy thing, fetch
+<character name="Gretel" role="younger sibling">Gretel</character>, shook her till she awoke, and cried: <dialog>‘Get up, lazy thing, fetch
 some water, and cook something good for your brother, he is in the
-stable outside, and is to be made fat. When he is fat, I will eat him.’
-Gretel began to weep bitterly, but it was all in vain, for she was
-forced to do what the wicked witch commanded.
+stable outside, and is to be made fat. When he is fat, I will eat him.’</dialog>
+<character name="Gretel" role="younger sibling">Gretel</character> began to weep bitterly, but it was all in vain, for she was
+forced to do what the wicked <character name="Stepmother" role="villain">witch</character> commanded.</p>
 
-And now the best food was cooked for poor Hansel, but Gretel got nothing
-but crab-shells. Every morning the woman crept to the little stable, and
-cried: ‘Hansel, stretch out your finger that I may feel if you will soon
-be fat.’ Hansel, however, stretched out a little bone to her, and
-the old woman, who had dim eyes, could not see it, and thought it was
-Hansel’s finger, and was astonished that there was no way of fattening
-him. When four weeks had gone by, and Hansel still remained thin, she
-was seized with impatience and would not wait any longer. ‘Now, then,
-Gretel,’ she cried to the girl, ‘stir yourself, and bring some water.
-Let Hansel be fat or lean, tomorrow I will kill him, and cook him.’ Ah,
+<p>And now the best food was cooked for poor <character name="Hansel" role="older sibling">Hansel</character>, but <character name="Gretel" role="younger sibling">Gretel</character> got nothing
+but crab-shells. Every morning the <character name="Witch" role="antagonist">woman</character> crept to the little stable, and
+cried: <dialog>‘<character name="Hansel" role="older sibling">Hansel</character>, stretch out your finger that I may feel if you will soon
+be fat.’</dialog> <character name="Hansel" role="older sibling">Hansel</character>, however, stretched out a little bone to her, and
+the old <character name="Witch" role="antagonist">woman</character>, who had dim eyes, could not see it, and thought it was
+<character name="Hansel" role="older sibling">Hansel</character>’s finger, and was astonished that there was no way of fattening
+him. When four weeks had gone by, and <character name="Hansel" role="older sibling">Hansel</character> still remained thin, she
+was seized with impatience and would not wait any longer. <dialog>‘Now, then,
+<character name="Gretel" role="younger sibling">Gretel</character>,’</dialog> she cried to the girl, <dialog>‘stir yourself, and bring some water.
+Let <character name="Hansel" role="older sibling">Hansel</character> be fat or lean, tomorrow I will kill him, and cook him.’</dialog> Ah,
 how the poor little sister did lament when she had to fetch the water,
-and how her tears did flow down her cheeks! ‘Dear God, do help us,’ she
-cried. ‘If the wild beasts in the forest had but devoured us, we should
-at any rate have died together.’ ‘Just keep your noise to yourself,’
-said the old woman, ‘it won’t help you at all.’
+and how her tears did flow down her cheeks! <dialog>‘Dear God, do help us,’</dialog> she
+cried. <dialog>‘If the wild beasts in the forest had but devoured us, we should
+at any rate have died together.’ ‘Just keep your noise to yourself,’</dialog>
+said the old <character name="Witch" role="antagonist">woman</character>, <dialog>‘it won’t help you at all.’</dialog></p>
 
-Early in the morning, Gretel had to go out and hang up the cauldron with
-the water, and light the fire. ‘We will bake first,’ said the old woman,
-‘I have already heated the oven, and kneaded the dough.’ She pushed poor
-Gretel out to the oven, from which flames of fire were already darting.
-‘Creep in,’ said the witch, ‘and see if it is properly heated, so that
-we can put the bread in.’ And once Gretel was inside, she intended to
+<p>Early in the morning, <character name="Gretel" role="younger sibling">Gretel</character> had to go out and hang up the cauldron with
+the water, and light the fire. <dialog>‘We will bake first,’</dialog> said the old <character name="Witch" role="antagonist">woman</character>,
+<dialog>‘I have already heated the oven, and kneaded the dough.’</dialog> She pushed poor
+<character name="Gretel" role="younger sibling">Gretel</character> out to the oven, from which flames of fire were already darting.
+<dialog>‘Creep in,’</dialog> said the witch, <dialog>‘and see if it is properly heated, so that
+we can put the bread in.’</dialog> And once <character name="Gretel" role="younger sibling">Gretel</character> was inside, she intended to
 shut the oven and let her bake in it, and then she would eat her, too.
-But Gretel saw what she had in mind, and said: ‘I do not know how I am
-to do it; how do I get in?’ ‘Silly goose,’ said the old woman. ‘The door
-is big enough; just look, I can get in myself!’ and she crept up and
-thrust her head into the oven. Then Gretel gave her a push that drove
+But <character name="Gretel" role="younger sibling">Gretel</character> saw what she had in mind, and said: <dialog>‘I do not know how I am
+to do it; how do I get in?’ ‘Silly goose,’</dialog> said the old <character name="Witch" role="antagonist">woman</character>. <dialog>The door
+is big enough; just look, I can get in myself!’</dialog> and she crept up and
+thrust her head into the oven. Then <character name="Gretel" role="younger sibling">Gretel</character> gave her a push that drove
 her far into it, and shut the iron door, and fastened the bolt. Oh! then
-she began to howl quite horribly, but Gretel ran away and the godless
-witch was miserably burnt to death.
+she began to howl quite horribly, but <character name="Gretel" role="younger sibling">Gretel</character> ran away and the godless
+<character name="Stepmother" role="villain">witch</character> was miserably burnt to death.</p>
 
-Gretel, however, ran like lightning to Hansel, opened his little stable,
-and cried: ‘Hansel, we are saved! The old witch is dead!’ Then Hansel
+<p><character name="Gretel" role="younger sibling">Gretel</character>, however, ran like lightning to <character name="Hansel" role="older sibling">Hansel</character>, opened his little stable,
+and cried: <dialog>‘<character name="Hansel" role="older sibling">Hansel</character>, we are saved! The old <character name="Stepmother" role="villain">witch</character> is dead!’</dialog> Then <character name="Hansel" role="older sibling">Hansel</character>
 sprang like a bird from its cage when the door is opened. How they did
 rejoice and embrace each other, and dance about and kiss each other! And
-as they had no longer any need to fear her, they went into the witch’s
+as they had no longer any need to fear her, they went into the <character name="Stepmother" role="villain">witch</character>’s
 house, and in every corner there stood chests full of pearls and jewels.
-‘These are far better than pebbles!’ said Hansel, and thrust into his
-pockets whatever could be got in, and Gretel said: ‘I, too, will take
-something home with me,’ and filled her pinafore full. ‘But now we must
-be off,’ said Hansel, ‘that we may get out of the witch’s forest.’
+<dialog>‘These are far better than pebbles!’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, and thrust into his
+pockets whatever could be got in, and <character name="Gretel" role="younger sibling">Gretel</character> said: <dialog>‘I, too, will take
+something home with me,’</dialog> and filled her <define>pinafore</define> full. <dialog>‘But now we must
+be off,’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, <dialog>‘that we may get out of the <character name="Stepmother" role="villain">witch</character>’s forest.’</dialog></p>
 
-When they had walked for two hours, they came to a great stretch of
-water. ‘We cannot cross,’ said Hansel, ‘I see no foot-plank, and no
-bridge.’ ‘And there is also no ferry,’ answered Gretel, ‘but a white
-duck is swimming there: if I ask her, she will help us over.’ Then she
+<p>When they had walked for two hours, they came to a great stretch of
+water. <dialog>‘We cannot cross,’</dialog> said <character name="Hansel" role="older sibling">Hansel</character>, <dialog>‘I see no foot-plank, and no
+bridge.’ ‘And there is also no ferry,’</dialog> answered <character name="Gretel" role="younger sibling">Gretel</character>, <dialog>‘but a white
+duck is swimming there: if I ask her, she will help us over.’</dialog> Then she
 cried:
 
- ‘Little duck, little duck, dost thou see,
-  Hansel and Gretel are waiting for thee?
+ <dialog>‘Little duck, little duck, <slang>dost thou</slang> see,
+  <character name="Hansel" role="older sibling">Hansel</character> and <character name="Gretel" role="younger sibling">Gretel</character> are waiting for thee?
   There’s never a plank, or bridge in sight,
-  Take us across on thy back so white.’
+  Take us across on thy back so white.’</dialog></p>
 
-The duck came to them, and Hansel seated himself on its back, and told
-his sister to sit by him. ‘No,’ replied Gretel, ‘that will be too heavy
-for the little duck; she shall take us across, one after the other.’ The
+<p>The duck came to them, and <character name="Hansel" role="older sibling">Hansel</character> seated himself on its back, and told
+his sister to sit by him. <dialog>‘No,’</dialog> replied <character name="Gretel" role="younger sibling">Gretel</character>, <dialog>‘that will be too heavy
+for the little duck; she shall take us across, one after the other.’</dialog> The
 good little duck did so, and when they were once safely across and had
 walked for a short time, the forest seemed to be more and more familiar
-to them, and at length they saw from afar their father’s house. Then
+to them, and at length they saw from afar their <character name="Father" role="woodcutter">father</character>’s house. Then
 they began to run, rushed into the parlour, and threw themselves round
-their father’s neck. The man had not known one happy hour since he had
-left the children in the forest; the woman, however, was dead. Gretel
-emptied her pinafore until pearls and precious stones ran about the
-room, and Hansel threw one handful after another out of his pocket to
+their <character name="Father" role="woodcutter">father</character>’s neck. The <character name="Father" role="woodcutter">man</character> had not known one happy hour since he had
+left the children in the forest; the <character name="Stepmother" role="villain">woman</character>, however, was dead. <character name="Gretel" role="younger sibling">Gretel</character>
+emptied her <define>pinafore</define> until pearls and precious stones ran about the
+room, and <character name="Hansel" role="older sibling">Hansel</character> threw one handful after another out of his pocket to
 add to them. Then all anxiety was at an end, and they lived together
 in perfect happiness. My tale is done, there runs a mouse; whosoever
-catches it, may make himself a big fur cap out of it.
+catches it, may make himself a big fur cap out of it.</p>
+</story>
+<theme>Survival and Resilience</theme>
 
 
-LITTLE RED-CAP [LITTLE RED RIDING HOOD]
+<story>
+<title>LITTLE RED-CAP [LITTLE RED RIDING HOOD]</title>
 
-Once upon a time there was a dear little girl who was loved by everyone
-who looked at her, but most of all by her grandmother, and there was
+<p>Once upon a time there was a dear little girl who was loved by everyone
+who looked at her, but most of all by her <character name="Grandmother" role="supporting">grandmother</character>, and there was
 nothing that she would not have given to the child. Once she gave her a
 little cap of red velvet, which suited her so well that she would never
-wear anything else; so she was always called ‘Little Red-Cap.’
+wear anything else; so she was always called ‘<character name="Little Red-Cap" role="protagonist">Little Red-Cap</character>.’</p>
 
-One day her mother said to her: ‘Come, Little Red-Cap, here is a piece
+<p>One day her mother said to her: <dialog>‘Come, Little Red-Cap, here is a piece
 of cake and a bottle of wine; take them to your grandmother, she is ill
 and weak, and they will do her good. Set out before it gets hot, and
 when you are going, walk nicely and quietly and do not run off the path,
 or you may fall and break the bottle, and then your grandmother will
 get nothing; and when you go into her room, don’t forget to say, “Good
-morning”, and don’t peep into every corner before you do it.’
+morning”, and don’t peep into every corner before you do it.’</dialog></p>
 
-‘I will take great care,’ said Little Red-Cap to her mother, and gave
-her hand on it.
+<p><dialog>‘I will take great care,’</dialog> said <character name="Little Red-Cap" role="protagonist">Little Red-Cap</character> to her mother, and gave
+her hand on it.</p>
 
-The grandmother lived out in the wood, half a league from the village,
-and just as Little Red-Cap entered the wood, a wolf met her. Red-Cap
+<p>The <character name="Grandmother" role="supporting">grandmother</character> lived out in the wood, half a <define>league</define> from the village,
+and just as <character name="Little Red-Cap" role="protagonist">Little Red-Cap</character> entered the wood, a <character name="Wolf" role="antagonist">wolf</character> met her. Red-Cap
 did not know what a wicked creature he was, and was not at all afraid of
-him.
+him.</p>
 
-‘Good day, Little Red-Cap,’ said he.
+<p><dialog>‘Good day, Little Red-Cap,’</dialog> said he.</p>
 
-‘Thank you kindly, wolf.’
+<p><dialog>‘Thank you kindly, wolf.’</dialog></p>
 
-‘Whither away so early, Little Red-Cap?’
+<p><dialog>‘Whither away so early, Little Red-Cap?’</dialog></p>
 
-‘To my grandmother’s.’
+<p><dialog>‘To my grandmother’s.’</dialog></p>
 
-‘What have you got in your apron?’
+<p><dialog>‘What have you got in your apron?’</dialog></p>
 
-‘Cake and wine; yesterday was baking-day, so poor sick grandmother is to
-have something good, to make her stronger.’
+<p><dialog>‘Cake and wine; yesterday was baking-day, so poor sick grandmother is to
+have something good, to make her stronger.’</dialog></p>
 
-‘Where does your grandmother live, Little Red-Cap?’
+<p><dialog>‘Where does your grandmother live, Little Red-Cap?’</dialog></p>
 
-‘A good quarter of a league farther on in the wood; her house stands
+<p><dialog>‘A good quarter of a <define>league</define> farther on in the wood; her house stands
 under the three large oak-trees, the nut-trees are just below; you
-surely must know it,’ replied Little Red-Cap.
+surely must know it,’</dialog> replied <character name="Little Red-Cap" role="protagonist">Little Red-Cap</character>.</p>
 
-The wolf thought to himself: ‘What a tender young creature! what a nice
+<p>The <character name="Wolf" role="antagonist">wolf</character> thought to himself: ‘What a tender young creature! what a nice
 plump mouthful--she will be better to eat than the old woman. I must
 act craftily, so as to catch both.’ So he walked for a short time by
-the side of Little Red-Cap, and then he said: ‘See, Little Red-Cap, how
+the side of <character name="Little Red-Cap" role="protagonist">Little Red-Cap</character>, and then he said: <dialog>‘See, Little Red-Cap, how
 pretty the flowers are about here--why do you not look round? I believe,
 too, that you do not hear how sweetly the little birds are singing; you
 walk gravely along as if you were going to school, while everything else
-out here in the wood is merry.’
+out here in the wood is merry.’</dialog></p>
 
-Little Red-Cap raised her eyes, and when she saw the sunbeams dancing
+<p><character name="Little Red-Cap" role="protagonist">Little Red-Cap</character> raised her eyes, and when she saw the sunbeams dancing
 here and there through the trees, and pretty flowers growing everywhere,
-she thought: ‘Suppose I take grandmother a fresh nosegay; that would
+she thought: ‘Suppose I take grandmother a fresh <define>nosegay</define>; that would
 please her too. It is so early in the day that I shall still get there
 in good time’; and so she ran from the path into the wood to look for
 flowers. And whenever she had picked one, she fancied that she saw a
 still prettier one farther on, and ran after it, and so got deeper and
-deeper into the wood.
+deeper into the wood.</p>
 
-Meanwhile the wolf ran straight to the grandmother’s house and knocked
-at the door.
+<p>Meanwhile the <character name="Wolf" role="antagonist">wolf</character> ran straight to the <character name="Grandmother" role="supporting">grandmother</character>’s house and knocked
+at the door.</p>
 
-‘Who is there?’
+<p><dialog>‘Who is there?’</dialog></p>
 
-‘Little Red-Cap,’ replied the wolf. ‘She is bringing cake and wine; open
-the door.’
+<p><dialog>‘Little Red-Cap,’</dialog> replied the <character name="Wolf" role="antagonist">wolf</character>. <dialog>‘She is bringing cake and wine; open
+the door.’</dialog></p>
 
-‘Lift the latch,’ called out the grandmother, ‘I am too weak, and cannot
-get up.’
+<p><dialog>‘Lift the latch,’</dialog> called out the <character name="Grandmother" role="supporting">grandmother</character>, <dialog>‘I am too weak, and cannot
+get up.’</dialog></p>
 
-The wolf lifted the latch, the door sprang open, and without saying a
-word he went straight to the grandmother’s bed, and devoured her. Then
+<p>The <character name="Wolf" role="antagonist">wolf</character> lifted the latch, the door sprang open, and without saying a
+word he went straight to the <character name="Grandmother" role="supporting">grandmother</character>’s bed, and devoured her. Then
 he put on her clothes, dressed himself in her cap laid himself in bed
-and drew the curtains.
+and drew the curtains.</p>
 
-Little Red-Cap, however, had been running about picking flowers,
+<p><character name="Little Red-Cap" role="protagonist">Little Red-Cap</character>, however, had been running about picking flowers,
 and when she had gathered so many that she could carry no more, she
-remembered her grandmother, and set out on the way to her.
+remembered her <character name="Grandmother" role="supporting">grandmother</character>, and set out on the way to her.</p>
 
-She was surprised to find the cottage-door standing open, and when she
+<p>She was surprised to find the cottage-door standing open, and when she
 went into the room, she had such a strange feeling that she said to
-herself: ‘Oh dear! how uneasy I feel today, and at other times I like
-being with grandmother so much.’ She called out: ‘Good morning,’ but
+herself: <dialog>‘Oh dear! how uneasy I feel today, and at other times I like
+being with grandmother so much.’</dialog> She called out: <dialog>‘Good morning,’</dialog> but
 received no answer; so she went to the bed and drew back the curtains.
-There lay her grandmother with her cap pulled far over her face, and
-looking very strange.
+There lay her <character name="Grandmother" role="supporting">grandmother</character> with her cap pulled far over her face, and
+looking very strange.</p>
 
-‘Oh! grandmother,’ she said, ‘what big ears you have!’
+<p><dialog>‘Oh! grandmother,’</dialog> she said, <dialog>‘what big ears you have!’</dialog></p>
 
-‘The better to hear you with, my child,’ was the reply.
+<p><dialog>‘The better to hear you with, my child,’</dialog> was the reply.</p>
 
-‘But, grandmother, what big eyes you have!’ she said.
+<p><dialog>‘But, grandmother, what big eyes you have!’</dialog> she said.</p>
 
-‘The better to see you with, my dear.’
+<p><dialog>‘The better to see you with, my dear.’</dialog></p>
 
-‘But, grandmother, what large hands you have!’
+<p><dialog>‘But, grandmother, what large hands you have!’</dialog></p>
 
-‘The better to hug you with.’
+<p><dialog>‘The better to hug you with.’</dialog></p>
 
-‘Oh! but, grandmother, what a terrible big mouth you have!’
+<p><dialog>‘Oh! but, grandmother, what a terrible big mouth you have!’</dialog></p>
 
-‘The better to eat you with!’
+<p><dialog>‘The better to eat you with!’</dialog></p>
 
-And scarcely had the wolf said this, than with one bound he was out of
-bed and swallowed up Red-Cap.
+<p>And scarcely had the <character name="Wolf" role="antagonist">wolf</character> said this, than with one bound he was out of
+bed and swallowed up Red-Cap.</p>
 
-When the wolf had appeased his appetite, he lay down again in the bed,
-fell asleep and began to snore very loud. The huntsman was just passing
+<p>When the <character name="Wolf" role="antagonist">wolf</character> had appeased his appetite, he lay down again in the bed,
+fell asleep and began to snore very loud. The <character name="Huntsman" role="supporting">huntsman</character> was just passing
 the house, and thought to himself: ‘How the old woman is snoring! I must
 just see if she wants anything.’ So he went into the room, and when he
-came to the bed, he saw that the wolf was lying in it. ‘Do I find you
-here, you old sinner!’ said he. ‘I have long sought you!’ Then just as
-he was going to fire at him, it occurred to him that the wolf might have
-devoured the grandmother, and that she might still be saved, so he did
+came to the bed, he saw that the <character name="Wolf" role="antagonist">wolf</character> was lying in it. <dialog>‘Do I find you
+here, you old sinner!’</dialog> said he. <dialog>‘I have long sought you!’</dialog> Then just as
+he was going to fire at him, it occurred to him that the <character name="Wolf" role="antagonist">wolf</character> might have
+devoured the <character name="Grandmother" role="supporting">grandmother</character>, and that she might still be saved, so he did
 not fire, but took a pair of scissors, and began to cut open the stomach
-of the sleeping wolf. When he had made two snips, he saw the little
+of the sleeping <character name="Wolf" role="antagonist">wolf</character>. When he had made two snips, he saw the little
 Red-Cap shining, and then he made two snips more, and the little girl
-sprang out, crying: ‘Ah, how frightened I have been! How dark it was
-inside the wolf’; and after that the aged grandmother came out alive
+sprang out, crying: <dialog>‘Ah, how frightened I have been! How dark it was
+inside the wolf’</dialog>; and after that the aged <character name="Grandmother" role="supporting">grandmother</character> came out alive
 also, but scarcely able to breathe. Red-Cap, however, quickly fetched
-great stones with which they filled the wolf’s belly, and when he awoke,
+great stones with which they filled the <character name="Wolf" role="antagonist">wolf</character>’s belly, and when he awoke,
 he wanted to run away, but the stones were so heavy that he collapsed at
-once, and fell dead.
+once, and fell dead.</p>
 
-Then all three were delighted. The huntsman drew off the wolf’s skin and
-went home with it; the grandmother ate the cake and drank the wine which
+<p>Then all three were delighted. The <character name="Huntsman" role="supporting">huntsman</character> drew off the <character name="Wolf" role="antagonist">wolf</character>’s skin and
+went home with it; the <character name="Grandmother" role="supporting">grandmother</character> ate the cake and drank the wine which
 Red-Cap had brought, and revived, but Red-Cap thought to herself: ‘As
 long as I live, I will never by myself leave the path, to run into the
-wood, when my mother has forbidden me to do so.’
+wood, when my mother has forbidden me to do so.’</p>
 
-
-It also related that once when Red-Cap was again taking cakes to the old
-grandmother, another wolf spoke to her, and tried to entice her from the
+<p>It also related that once when Red-Cap was again taking cakes to the old
+<character name="Grandmother" role="supporting">grandmother</character>, another <character name="Wolf" role="antagonist">wolf</character> spoke to her, and tried to entice her from the
 path. Red-Cap, however, was on her guard, and went straight forward on
-her way, and told her grandmother that she had met the wolf, and that he
-had said ‘good morning’ to her, but with such a wicked look in his eyes,
+her way, and told her <character name="Grandmother" role="supporting">grandmother</character> that she had met the <character name="Wolf" role="antagonist">wolf</character>, and that he
+had said <dialog>‘good morning’</dialog> to her, but with such a wicked look in his eyes,
 that if they had not been on the public road she was certain he would
-have eaten her up. ‘Well,’ said the grandmother, ‘we will shut the door,
-that he may not come in.’ Soon afterwards the wolf knocked, and cried:
-‘Open the door, grandmother, I am Little Red-Cap, and am bringing you
-some cakes.’ But they did not speak, or open the door, so the grey-beard
+have eaten her up. <dialog>‘Well,’</dialog> said the <character name="Grandmother" role="supporting">grandmother</character>, <dialog>‘we will shut the door,
+that he may not come in.’</dialog> Soon afterwards the <character name="Wolf" role="antagonist">wolf</character> knocked, and cried:
+<dialog>‘Open the door, grandmother, I am Little Red-Cap, and am bringing you
+some cakes.’</dialog> But they did not speak, or open the door, so the grey-beard
 stole twice or thrice round the house, and at last jumped on the roof,
 intending to wait until Red-Cap went home in the evening, and then to
-steal after her and devour her in the darkness. But the grandmother
+steal after her and devour her in the darkness. But the <character name="Grandmother" role="supporting">grandmother</character>
 saw what was in his thoughts. In front of the house was a great stone
-trough, so she said to the child: ‘Take the pail, Red-Cap; I made some
+trough, so she said to the child: <dialog>‘Take the pail, Red-Cap; I made some
 sausages yesterday, so carry the water in which I boiled them to the
-trough.’ Red-Cap carried until the great trough was quite full. Then the
-smell of the sausages reached the wolf, and he sniffed and peeped down,
+trough.’</dialog> Red-Cap carried until the great trough was quite full. Then the
+smell of the sausages reached the <character name="Wolf" role="antagonist">wolf</character>, and he sniffed and peeped down,
 and at last stretched out his neck so far that he could no longer keep
 his footing and began to slip, and slipped down from the roof straight
 into the great trough, and was drowned. But Red-Cap went joyously home,
-and no one ever did anything to harm her again.
+and no one ever did anything to harm her again.</p>
+</story>
+<theme>Innocence vs. Danger</theme>
 
 
-THE FROG-PRINCE
+<story>
+<title>RAPUNZEL</title>
 
-One fine evening a young princess put on her bonnet and clogs, and went
-out to take a walk by herself in a wood; and when she came to a cool
-spring of water, that rose in the midst of it, she sat herself down
-to rest a while. Now she had a golden ball in her hand, which was her
-favourite plaything; and she was always tossing it up into the air, and
-catching it again as it fell. After a time she threw it up so high that
-she missed catching it as it fell; and the ball bounded away, and rolled
-along upon the ground, till at last it fell down into the spring. The
-princess looked into the spring after her ball, but it was very deep, so
-deep that she could not see the bottom of it. Then she began to bewail
-her loss, and said, ‘Alas! if I could only get my ball again, I would
-give all my fine clothes and jewels, and everything that I have in the
-world.’
-
-Whilst she was speaking, a frog put its head out of the water, and said,
-‘Princess, why do you weep so bitterly?’ ‘Alas!’ said she, ‘what can you
-do for me, you nasty frog? My golden ball has fallen into the spring.’
-The frog said, ‘I want not your pearls, and jewels, and fine clothes;
-but if you will love me, and let me live with you and eat from off
-your golden plate, and sleep upon your bed, I will bring you your ball
-again.’ ‘What nonsense,’ thought the princess, ‘this silly frog is
-talking! He can never even get out of the spring to visit me, though
-he may be able to get my ball for me, and therefore I will tell him he
-shall have what he asks.’ So she said to the frog, ‘Well, if you will
-bring me my ball, I will do all you ask.’ Then the frog put his head
-down, and dived deep under the water; and after a little while he came
-up again, with the ball in his mouth, and threw it on the edge of the
-spring. As soon as the young princess saw her ball, she ran to pick
-it up; and she was so overjoyed to have it in her hand again, that she
-never thought of the frog, but ran home with it as fast as she could.
-The frog called after her, ‘Stay, princess, and take me with you as you
-said,’ But she did not stop to hear a word.
-
-The next day, just as the princess had sat down to dinner, she heard a
-strange noise--tap, tap--plash, plash--as if something was coming up the
-marble staircase: and soon afterwards there was a gentle knock at the
-door, and a little voice cried out and said:
-
- ‘Open the door, my princess dear,
-  Open the door to thy true love here!
-  And mind the words that thou and I said
-  By the fountain cool, in the greenwood shade.’
-
-Then the princess ran to the door and opened it, and there she saw
-the frog, whom she had quite forgotten. At this sight she was sadly
-frightened, and shutting the door as fast as she could came back to her
-seat. The king, her father, seeing that something had frightened her,
-asked her what was the matter. ‘There is a nasty frog,’ said she, ‘at
-the door, that lifted my ball for me out of the spring this morning: I
-told him that he should live with me here, thinking that he could never
-get out of the spring; but there he is at the door, and he wants to come
-in.’
-
-While she was speaking the frog knocked again at the door, and said:
-
- ‘Open the door, my princess dear,
-  Open the door to thy true love here!
-  And mind the words that thou and I said
-  By the fountain cool, in the greenwood shade.’
-
-Then the king said to the young princess, ‘As you have given your word
-you must keep it; so go and let him in.’ She did so, and the frog hopped
-into the room, and then straight on--tap, tap--plash, plash--from the
-bottom of the room to the top, till he came up close to the table where
-the princess sat. ‘Pray lift me upon chair,’ said he to the princess,
-‘and let me sit next to you.’ As soon as she had done this, the frog
-said, ‘Put your plate nearer to me, that I may eat out of it.’ This
-she did, and when he had eaten as much as he could, he said, ‘Now I am
-tired; carry me upstairs, and put me into your bed.’ And the princess,
-though very unwilling, took him up in her hand, and put him upon the
-pillow of her own bed, where he slept all night long. As soon as it was
-light he jumped up, hopped downstairs, and went out of the house.
-‘Now, then,’ thought the princess, ‘at last he is gone, and I shall be
-troubled with him no more.’
-
-But she was mistaken; for when night came again she heard the same
-tapping at the door; and the frog came once more, and said:
-
- ‘Open the door, my princess dear,
-  Open the door to thy true love here!
-  And mind the words that thou and I said
-  By the fountain cool, in the greenwood shade.’
-
-And when the princess opened the door the frog came in, and slept upon
-her pillow as before, till the morning broke. And the third night he did
-the same. But when the princess awoke on the following morning she was
-astonished to see, instead of the frog, a handsome prince, gazing on her
-with the most beautiful eyes she had ever seen, and standing at the head
-of her bed.
-
-He told her that he had been enchanted by a spiteful fairy, who had
-changed him into a frog; and that he had been fated so to abide till
-some princess should take him out of the spring, and let him eat from
-her plate, and sleep upon her bed for three nights. ‘You,’ said the
-prince, ‘have broken his cruel charm, and now I have nothing to wish for
-but that you should go with me into my father’s kingdom, where I will
-marry you, and love you as long as you live.’
-
-The young princess, you may be sure, was not long in saying ‘Yes’ to
-all this; and as they spoke a gay coach drove up, with eight beautiful
-horses, decked with plumes of feathers and a golden harness; and behind
-the coach rode the prince’s servant, faithful Heinrich, who had bewailed
-the misfortunes of his dear master during his enchantment so long and so
-bitterly, that his heart had well-nigh burst.
-
-They then took leave of the king, and got into the coach with eight
-horses, and all set out, full of joy and merriment, for the prince’s
-kingdom, which they reached safely; and there they lived happily a great
-many years.
-
-
-RAPUNZEL
-
-There were once a man and a woman who had long in vain wished for a
-child. At length the woman hoped that God was about to grant her desire.
+<p>There were once a <character name="The Man" role="husband">man</character> and a <character name="The Woman" role="wife">woman</character> who had long in vain wished for a
+child. At length the <character name="The Woman" role="wife">woman</character> hoped that God was about to grant her desire.
 These people had a little window at the back of their house from which
 a splendid garden could be seen, which was full of the most beautiful
 flowers and herbs. It was, however, surrounded by a high wall, and no
-one dared to go into it because it belonged to an enchantress, who had
-great power and was dreaded by all the world. One day the woman was
+one dared to go into it because it belonged to an <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>, who had
+great power and was dreaded by all the world. One day the <character name="The Woman" role="wife">woman</character> was
 standing by this window and looking down into the garden, when she saw a
-bed which was planted with the most beautiful rampion (rapunzel), and it
+bed which was planted with the most beautiful <define>rampion</define> (<character name="Rapunzel" role="protagonist">rapunzel</character>), and it
 looked so fresh and green that she longed for it, she quite pined away,
 and began to look pale and miserable. Then her husband was alarmed, and
-asked: ‘What ails you, dear wife?’ ‘Ah,’ she replied, ‘if I can’t eat
+asked: <dialog>‘What ails you, dear wife?’ ‘Ah,’</dialog> she replied, <dialog>‘if I can’t eat
 some of the rampion, which is in the garden behind our house, I shall
-die.’ The man, who loved her, thought: ‘Sooner than let your wife die,
+die.’</dialog> The <character name="The Man" role="husband">man</character>, who loved her, thought: ‘Sooner than let your wife die,
 bring her some of the rampion yourself, let it cost what it will.’
 At twilight, he clambered down over the wall into the garden of the
-enchantress, hastily clutched a handful of rampion, and took it to his
+<character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>, hastily clutched a handful of rampion, and took it to his
 wife. She at once made herself a salad of it, and ate it greedily. It
 tasted so good to her--so very good, that the next day she longed for it
 three times as much as before. If he was to have any rest, her husband
 must once more descend into the garden. In the gloom of evening
 therefore, he let himself down again; but when he had clambered down the
-wall he was terribly afraid, for he saw the enchantress standing before
-him. ‘How can you dare,’ said she with angry look, ‘descend into my
+wall he was terribly afraid, for he saw the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> standing before
+him. <dialog>‘How can you dare,’</dialog> said she with angry look, <dialog>‘descend into my
 garden and steal my rampion like a thief? You shall suffer for it!’
-‘Ah,’ answered he, ‘let mercy take the place of justice, I only made
+‘Ah,’</dialog> answered he, <dialog>‘let mercy take the place of justice, I only made
 up my mind to do it out of necessity. My wife saw your rampion from the
 window, and felt such a longing for it that she would have died if she
-had not got some to eat.’ Then the enchantress allowed her anger to be
-softened, and said to him: ‘If the case be as you say, I will allow
+had not got some to eat.’</dialog> Then the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> allowed her anger to be
+softened, and said to him: <dialog>‘If the case be as you say, I will allow
 you to take away with you as much rampion as you will, only I make one
 condition, you must give me the child which your wife will bring into
 the world; it shall be well treated, and I will care for it like a
-mother.’ The man in his terror consented to everything, and when the
-woman was brought to bed, the enchantress appeared at once, gave the
-child the name of Rapunzel, and took it away with her.
+mother.’</dialog> The <character name="The Man" role="husband">man</character> in his terror consented to everything, and when the
+<character name="The Woman" role="wife">woman</character> was brought to bed, the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> appeared at once, gave the
+child the name of <character name="Rapunzel" role="protagonist">Rapunzel</character>, and took it away with her.</p>
 
-Rapunzel grew into the most beautiful child under the sun. When she was
-twelve years old, the enchantress shut her into a tower, which lay in
+<p><character name="Rapunzel" role="protagonist">Rapunzel</character> grew into the most beautiful child under the sun. When she was
+twelve years old, the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> shut her into a tower, which lay in
 a forest, and had neither stairs nor door, but quite at the top was a
-little window. When the enchantress wanted to go in, she placed herself
+little window. When the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> wanted to go in, she placed herself
 beneath it and cried:
 
- ‘Rapunzel, Rapunzel,
-  Let down your hair to me.’
+ <dialog>‘Rapunzel, Rapunzel,
+  Let down your hair to me.’</dialog></p>
 
-Rapunzel had magnificent long hair, fine as spun gold, and when she
-heard the voice of the enchantress she unfastened her braided tresses,
+<p><character name="Rapunzel" role="protagonist">Rapunzel</character> had magnificent long hair, fine as spun gold, and when she
+heard the voice of the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> she unfastened her braided <define>tresses</define>,
 wound them round one of the hooks of the window above, and then the hair
-fell twenty ells down, and the enchantress climbed up by it.
+fell twenty <define>ells</define> down, and the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> climbed up by it.</p>
 
-After a year or two, it came to pass that the king’s son rode through
+<p>After a year or two, it came to pass that <character name="The King's Son" role="Prince">the king’s son</character> rode through
 the forest and passed by the tower. Then he heard a song, which was so
-charming that he stood still and listened. This was Rapunzel, who in her
-solitude passed her time in letting her sweet voice resound. The king’s
-son wanted to climb up to her, and looked for the door of the tower,
+charming that he stood still and listened. This was <character name="Rapunzel" role="protagonist">Rapunzel</character>, who in her
+solitude passed her time in letting her sweet voice resound. <character name="The King's Son" role="Prince">The king’s
+son</character> wanted to climb up to her, and looked for the door of the tower,
 but none was to be found. He rode home, but the singing had so deeply
 touched his heart, that every day he went out into the forest and
 listened to it. Once when he was thus standing behind a tree, he saw
-that an enchantress came there, and he heard how she cried:
+that an <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> came there, and he heard how she cried:
 
- ‘Rapunzel, Rapunzel,
-  Let down your hair to me.’
+ <dialog>‘Rapunzel, Rapunzel,
+  Let down your hair to me.’</dialog></p>
 
-Then Rapunzel let down the braids of her hair, and the enchantress
+<p>Then <character name="Rapunzel" role="protagonist">Rapunzel</character> let down the braids of her hair, and the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>
 climbed up to her. ‘If that is the ladder by which one mounts, I too
 will try my fortune,’ said he, and the next day when it began to grow
 dark, he went to the tower and cried:
 
- ‘Rapunzel, Rapunzel,
-  Let down your hair to me.’
+ <dialog>‘Rapunzel, Rapunzel,
+  Let down your hair to me.’</dialog></p>
 
-Immediately the hair fell down and the king’s son climbed up.
+<p>Immediately the hair fell down and <character name="The King's Son" role="Prince">the king’s son</character> climbed up.</p>
 
-At first Rapunzel was terribly frightened when a man, such as her eyes
-had never yet beheld, came to her; but the king’s son began to talk to
+<p>At first <character name="Rapunzel" role="protagonist">Rapunzel</character> was terribly frightened when a man, such as her eyes
+had never yet beheld, came to her; but <character name="The King's Son" role="Prince">the king’s son</character> began to talk to
 her quite like a friend, and told her that his heart had been so stirred
 that it had let him have no rest, and he had been forced to see her.
-Then Rapunzel lost her fear, and when he asked her if she would take
+Then <character name="Rapunzel" role="protagonist">Rapunzel</character> lost her fear, and when he asked her if she would take
 him for her husband, and she saw that he was young and handsome, she
 thought: ‘He will love me more than old Dame Gothel does’; and she said
-yes, and laid her hand in his. She said: ‘I will willingly go away with
-you, but I do not know how to get down. Bring with you a skein of silk
+yes, and laid her hand in his. She said: <dialog>‘I will willingly go away with
+you, but I do not know how to get down. Bring with you a <define>skein of silk</define>
 every time that you come, and I will weave a ladder with it, and when
-that is ready I will descend, and you will take me on your horse.’ They
+that is ready I will descend, and you will take me on your horse.’</dialog> They
 agreed that until that time he should come to her every evening, for the
-old woman came by day. The enchantress remarked nothing of this, until
-once Rapunzel said to her: ‘Tell me, Dame Gothel, how it happens that
+old woman came by day. The <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character> remarked nothing of this, until
+once <character name="Rapunzel" role="protagonist">Rapunzel</character> said to her: <dialog>‘Tell me, Dame Gothel, how it happens that
 you are so much heavier for me to draw up than the young king’s son--he
-is with me in a moment.’ ‘Ah! you wicked child,’ cried the enchantress.
-‘What do I hear you say! I thought I had separated you from all
-the world, and yet you have deceived me!’ In her anger she clutched
-Rapunzel’s beautiful tresses, wrapped them twice round her left hand,
+is with me in a moment.’ ‘Ah! you wicked child,’</dialog> cried the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>.
+<dialog>‘What do I hear you say! I thought I had separated you from all
+the world, and yet you have deceived me!’</dialog> In her anger she clutched
+<character name="Rapunzel" role="protagonist">Rapunzel</character>’s beautiful tresses, wrapped them twice round her left hand,
 seized a pair of scissors with the right, and snip, snap, they were cut
 off, and the lovely braids lay on the ground. And she was so pitiless
-that she took poor Rapunzel into a desert where she had to live in great
-grief and misery.
+that she took poor <character name="Rapunzel" role="protagonist">Rapunzel</character> into a desert where she had to live in great
+grief and misery.</p>
 
-On the same day that she cast out Rapunzel, however, the enchantress
+<p>On the same day that she cast out <character name="Rapunzel" role="protagonist">Rapunzel</character>, however, the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>
 fastened the braids of hair, which she had cut off, to the hook of the
-window, and when the king’s son came and cried:
+window, and when <character name="The King's Son" role="Prince">the king’s son</character> came and cried:
 
- ‘Rapunzel, Rapunzel,
-  Let down your hair to me.’
+ <dialog>‘Rapunzel, Rapunzel,
+  Let down your hair to me.’<dialog></p>
 
-she let the hair down. The king’s son ascended, but instead of finding
-his dearest Rapunzel, he found the enchantress, who gazed at him with
-wicked and venomous looks. ‘Aha!’ she cried mockingly, ‘you would fetch
+<p>she let the hair down. <character name="The King's Son" role="Prince">The king’s son</character> ascended, but instead of finding
+his dearest <character name="Rapunzel" role="protagonist">Rapunzel</character>, he found the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>, who gazed at him with
+wicked and venomous looks. <dialog>‘Aha!’</dialog> she cried mockingly, <dialog>‘you would fetch
 your dearest, but the beautiful bird sits no longer singing in the nest;
-the cat has got it, and will scratch out your eyes as well. Rapunzel is
-lost to you; you will never see her again.’ The king’s son was beside
+the cat has got it, and will scratch out your eyes as well. <character name="Rapunzel" role="protagonist">Rapunzel</character> is
+lost to you; you will never see her again.’</dialog> <character name="The King's Son" role="Prince">The king’s son</character> was beside
 himself with pain, and in his despair he leapt down from the tower. He
 escaped with his life, but the thorns into which he fell pierced his
 eyes. Then he wandered quite blind about the forest, ate nothing but
 roots and berries, and did naught but lament and weep over the loss of
 his dearest wife. Thus he roamed about in misery for some years, and at
-length came to the desert where Rapunzel, with the twins to which she
+length came to the desert where <character name="Rapunzel" role="protagonist">Rapunzel</character>, with the twins to which she
 had given birth, a boy and a girl, lived in wretchedness. He heard a
 voice, and it seemed so familiar to him that he went towards it, and
-when he approached, Rapunzel knew him and fell on his neck and wept. Two
+when he approached, <character name="Rapunzel" role="protagonist">Rapunzel</character> knew him and fell on his neck and wept. Two
 of her tears wetted his eyes and they grew clear again, and he could
 see with them as before. He led her to his kingdom where he was
 joyfully received, and they lived for a long time afterwards, happy and
-contented.
+contented.</p>
+</story>
+<theme>Freedom vs. Confinement</theme>
 
 
-SNOWDROP
+<story>
+<title>SNOWDROP</title>
 
-It was the middle of winter, when the broad flakes of snow were falling
-around, that the queen of a country many thousand miles off sat working
+<p>It was the middle of winter, when the broad flakes of snow were falling
+around, that the <character name="The Queen" role="Mother">queen</character> of a country many thousand miles off sat working
 at her window. The frame of the window was made of fine black ebony, and
 as she sat looking out upon the snow, she pricked her finger, and three
 drops of blood fell upon it. Then she gazed thoughtfully upon the red
@@ -662,41 +563,41 @@ drops that sprinkled the white snow, and said, ‘Would that my little
 daughter may be as white as that snow, as red as that blood, and as
 black as this ebony windowframe!’ And so the little girl really did grow
 up; her skin was as white as snow, her cheeks as rosy as the blood, and
-her hair as black as ebony; and she was called Snowdrop.
+her hair as black as ebony; and she was called <character name="Snowdrop" role="protagonist">Snowdrop</character>.</p>
 
-But this queen died; and the king soon married another wife, who became
-queen, and was very beautiful, but so vain that she could not bear
+<p>But this <character name="The Queen" role="Mother">queen</character> died; and the <character name="The King" role="Father">king</character> soon married another wife, who became
+<character name="The New Queen" role="antagonist">queen</character>, and was very beautiful, but so vain that she could not bear
 to think that anyone could be handsomer than she was. She had a fairy
-looking-glass, to which she used to go, and then she would gaze upon
+<character name="Looking-glass" role="magic object">looking-glass</character>, to which she used to go, and then she would gaze upon
 herself in it, and say:
 
- ‘Tell me, glass, tell me true!
+ <dialog>‘Tell me, glass, tell me true!
   Of all the ladies in the land,
-  Who is fairest, tell me, who?’
+  Who is fairest, tell me, who?’</dialog></p>
 
-And the glass had always answered:
+<p>And the <character name="Looking-glass" role="magic object">glass</character> had always answered:
 
- ‘Thou, queen, art the fairest in all the land.’
+ <dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> the fairest in all the land.’</dialog></p>
 
-But Snowdrop grew more and more beautiful; and when she was seven years
-old she was as bright as the day, and fairer than the queen herself.
-Then the glass one day answered the queen, when she went to look in it
+<p>But <character name="Snowdrop" role="protagonist">Snowdrop</character> grew more and more beautiful; and when she was seven years
+old she was as bright as the day, and fairer than the <character name="The New Queen" role="antagonist">queen</character> herself.
+Then the <character name="Looking-glass" role="magic object">glass</character> one day answered the <character name="The New Queen" role="antagonist">queen</character>, when she went to look in it
 as usual:
 
- ‘Thou, queen, art fair, and beauteous to see,
-  But Snowdrop is lovelier far than thee!’
+<dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> fair, and beauteous to see,
+  But Snowdrop is lovelier far than thee!’<dialog></p>
 
-When she heard this she turned pale with rage and envy, and called to
-one of her servants, and said, ‘Take Snowdrop away into the wide wood,
-that I may never see her any more.’ Then the servant led her away; but
-his heart melted when Snowdrop begged him to spare her life, and he
-said, ‘I will not hurt you, thou pretty child.’ So he left her by
+<p>When she heard this she turned pale with rage and envy, and called to
+one of her servants, and said, <dialog>‘Take Snowdrop away into the wide wood,
+that I may never see her any more.’</dialog> Then the <character name="The Servant" role="Helper">servant</character> led her away; but
+his heart melted when <character name="Snowdrop" role="protagonist">Snowdrop</character> begged him to spare her life, and he
+said, <dialog>‘I will not hurt you, <slang>thou</slang> pretty child.’</dialog> So he left her by
 herself; and though he thought it most likely that the wild beasts would
 tear her in pieces, he felt as if a great weight were taken off his
 heart when he had made up his mind not to kill her but to leave her to
-her fate, with the chance of someone finding and saving her.
+her fate, with the chance of someone finding and saving her.</p>
 
-Then poor Snowdrop wandered along through the wood in great fear; and
+<p>Then poor <character name="Snowdrop" role="protagonist">Snowdrop</character> wandered along through the wood in great fear; and
 the wild beasts roared about her, but none did her any harm. In the
 evening she came to a cottage among the hills, and went in to rest, for
 her little feet would carry her no further. Everything was spruce and
@@ -708,175 +609,180 @@ a little piece of each loaf and drank a very little wine out of each
 glass; and after that she thought she would lie down and rest. So she
 tried all the little beds; but one was too long, and another was too
 short, till at last the seventh suited her: and there she laid herself
-down and went to sleep.
+down and went to sleep.</p>
 
-By and by in came the masters of the cottage. Now they were seven little
-dwarfs, that lived among the mountains, and dug and searched for gold.
+<p>By and by in came the masters of the cottage. Now they were seven little
+<character name="The Seven Dwarfs" role="Helpers">dwarfs</character>, that lived among the mountains, and dug and searched for gold.
 They lighted up their seven lamps, and saw at once that all was not
-right. The first said, ‘Who has been sitting on my stool?’ The second,
-‘Who has been eating off my plate?’ The third, ‘Who has been picking my
-bread?’ The fourth, ‘Who has been meddling with my spoon?’ The fifth,
-‘Who has been handling my fork?’ The sixth, ‘Who has been cutting with
-my knife?’ The seventh, ‘Who has been drinking my wine?’ Then the first
-looked round and said, ‘Who has been lying on my bed?’ And the rest came
+right. The first said, <dialog>‘Who has been sitting on my stool?’</dialog> The second,
+<dialog>‘Who has been eating off my plate?’</dialog> The third, <dialog>‘Who has been picking my
+bread?’</dialog> The fourth, <dialog>‘Who has been meddling with my spoon?’</dialog> The fifth,
+<dialog>‘Who has been handling my fork?’</dialog> The sixth, <dialog>‘Who has been cutting with
+my knife?’</dialog> The seventh, <dialog>‘Who has been drinking my wine?’</dialog> Then the first
+looked round and said, <dialog>‘Who has been lying on my bed?’</dialog> And the rest came
 running to him, and everyone cried out that somebody had been upon his
-bed. But the seventh saw Snowdrop, and called all his brethren to come
+bed. But the seventh saw <character name="Snowdrop" role="protagonist">Snowdrop</character>, and called all his brethren to come
 and see her; and they cried out with wonder and astonishment and brought
-their lamps to look at her, and said, ‘Good heavens! what a lovely child
-she is!’ And they were very glad to see her, and took care not to wake
-her; and the seventh dwarf slept an hour with each of the other dwarfs
-in turn, till the night was gone.
+their lamps to look at her, and said, <dialog>‘Good heavens! what a lovely child
+she is!’</dialog> And they were very glad to see her, and took care not to wake
+her; and the seventh dwarf slept an hour with each of the other <character name="The Seven Dwarfs" role="Helpers">dwarfs</character>
+in turn, till the night was gone.</p>
 
-In the morning Snowdrop told them all her story; and they pitied her,
+<p>In the morning <character name="Snowdrop" role="protagonist">Snowdrop</character> told them all her story; and they pitied her,
 and said if she would keep all things in order, and cook and wash and
 knit and spin for them, she might stay where she was, and they would
 take good care of her. Then they went out all day long to their work,
-seeking for gold and silver in the mountains: but Snowdrop was left at
-home; and they warned her, and said, ‘The queen will soon find out where
-you are, so take care and let no one in.’
+seeking for gold and silver in the mountains: but <character name="Snowdrop" role="protagonist">Snowdrop</character> was left at
+home; and they warned her, and said, <dialog>‘The queen will soon find out where
+you are, so take care and let no one in.’</dialog></p>
 
-But the queen, now that she thought Snowdrop was dead, believed that she
-must be the handsomest lady in the land; and she went to her glass and
+<p>But the <character name="The New Queen" role="antagonist">queen</character>, now that she thought <character name="Snowdrop" role="protagonist">Snowdrop</character> was dead, believed that she
+must be the handsomest lady in the land; and she went to her <character name="Looking-glass" role="magic object">glass</character> and
 said:
 
- ‘Tell me, glass, tell me true!
+ <dialog>‘Tell me, glass, tell me true!
   Of all the ladies in the land,
-  Who is fairest, tell me, who?’
+  Who is fairest, tell me, who?’</dialog></p>
 
-And the glass answered:
+<p>And the <character name="Looking-glass" role="magic object">glass</character> answered:
 
- ‘Thou, queen, art the fairest in all this land:
+ <dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> the fairest in all this land:
   But over the hills, in the greenwood shade,
   Where the seven dwarfs their dwelling have made,
   There Snowdrop is hiding her head; and she
-  Is lovelier far, O queen! than thee.’
+  Is lovelier far, O queen! than thee.’</dialog></p>
 
-Then the queen was very much frightened; for she knew that the glass
-always spoke the truth, and was sure that the servant had betrayed her.
+<p>Then the <character name="The New Queen" role="antagonist">queen</character> was very much frightened; for she knew that the <character name="Looking-glass" role="magic object">glass</character>
+always spoke the truth, and was sure that the <character name="The Servant" role="Helper">servant</character> had betrayed her.
 And she could not bear to think that anyone lived who was more beautiful
 than she was; so she dressed herself up as an old pedlar, and went
-her way over the hills, to the place where the dwarfs dwelt. Then she
-knocked at the door, and cried, ‘Fine wares to sell!’ Snowdrop looked
-out at the window, and said, ‘Good day, good woman! what have you to
-sell?’ ‘Good wares, fine wares,’ said she; ‘laces and bobbins of all
-colours.’ ‘I will let the old lady in; she seems to be a very good
-sort of body,’ thought Snowdrop, as she ran down and unbolted the door.
-‘Bless me!’ said the old woman, ‘how badly your stays are laced! Let me
-lace them up with one of my nice new laces.’ Snowdrop did not dream of
+her way over the hills, to the place where the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> dwelt. Then she
+knocked at the door, and cried, <dialog>‘Fine <slang>wares</slang> to sell!’</dialog> <character name="Snowdrop" role="protagonist">Snowdrop</character> looked
+out at the window, and said, <dialog>‘Good day, good woman! what have you to
+sell?’ ‘Good <slang>wares</slang>, fine <slang>wares</slang>,’</dialog> said she; <dialog>‘laces and bobbins of all
+colours.’</dialog> ‘I will let the old lady in; she seems to be a very good
+sort of body,’ thought <character name="Snowdrop" role="protagonist">Snowdrop</character>, as she ran down and unbolted the door.
+<dialog>‘Bless me!’</dialog> said the old woman, <dialog>‘how badly your stays are laced! Let me
+lace them up with one of my nice new laces.’</dialog> <character name="Snowdrop" role="protagonist">Snowdrop</character> did not dream of
 any mischief; so she stood before the old woman; but she set to work
-so nimbly, and pulled the lace so tight, that Snowdrop’s breath was
-stopped, and she fell down as if she were dead. ‘There’s an end to all
-thy beauty,’ said the spiteful queen, and went away home.
+so nimbly, and pulled the lace so tight, that <character name="Snowdrop" role="protagonist">Snowdrop</character>’s breath was
+stopped, and she fell down as if she were dead. <dialog>‘There’s an end to all
+thy beauty,’</dialog> said the spiteful <character name="The New Queen" role="antagonist">queen</character>, and went away home.</p>
 
-In the evening the seven dwarfs came home; and I need not say how
-grieved they were to see their faithful Snowdrop stretched out upon the
+<p>In the evening the seven <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> came home; and I need not say how
+grieved they were to see their faithful <character name="Snowdrop" role="protagonist">Snowdrop</character> stretched out upon the
 ground, as if she was quite dead. However, they lifted her up, and when
 they found what ailed her, they cut the lace; and in a little time she
-began to breathe, and very soon came to life again. Then they said, ‘The
+began to breathe, and very soon came to life again. Then they said, <dialog>‘The
 old woman was the queen herself; take care another time, and let no one
-in when we are away.’
+in when we are away.’</dialog></p>
 
-When the queen got home, she went straight to her glass, and spoke to it
+<p>When the <character name="The New Queen" role="antagonist">queen</character> got home, she went straight to her <character name="Looking-glass" role="magic object">glass</character>, and spoke to it
 as before; but to her great grief it still said:
 
- ‘Thou, queen, art the fairest in all this land:
+ <dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> the fairest in all this land:
   But over the hills, in the greenwood shade,
   Where the seven dwarfs their dwelling have made,
   There Snowdrop is hiding her head; and she
-  Is lovelier far, O queen! than thee.’
+  Is lovelier far, O queen! than thee.’</dialog></p>
 
-Then the blood ran cold in her heart with spite and malice, to see that
-Snowdrop still lived; and she dressed herself up again, but in quite
+<p>Then the blood ran cold in her heart with spite and malice, to see that
+<character name="Snowdrop" role="protagonist">Snowdrop</character> still lived; and she dressed herself up again, but in quite
 another dress from the one she wore before, and took with her a poisoned
-comb. When she reached the dwarfs’ cottage, she knocked at the door, and
-cried, ‘Fine wares to sell!’ But Snowdrop said, ‘I dare not let anyone
-in.’ Then the queen said, ‘Only look at my beautiful combs!’ and gave
+comb. When she reached the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character>’ cottage, she knocked at the door, and
+cried, <dialog>‘Fine <slang>wares</slang> to sell!’</dialog> But <character name="Snowdrop" role="protagonist">Snowdrop</character> said, <dialog>‘I dare not let anyone
+in.’</dialog> Then the <character name="The New Queen" role="antagonist">queen</character> said, <dialog>‘Only look at my beautiful combs!’</dialog> and gave
 her the poisoned one. And it looked so pretty, that she took it up and
 put it into her hair to try it; but the moment it touched her head,
-the poison was so powerful that she fell down senseless. ‘There you may
-lie,’ said the queen, and went her way. But by good luck the dwarfs
-came in very early that evening; and when they saw Snowdrop lying on
+the poison was so powerful that she fell down senseless. <dialog>‘There you may
+lie,’</dialog> said the <character name="The New Queen" role="antagonist">queen</character>, and went her way. But by good luck the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character>
+came in very early that evening; and when they saw <character name="Snowdrop" role="protagonist">Snowdrop</character> lying on
 the ground, they thought what had happened, and soon found the poisoned
 comb. And when they took it away she got well, and told them all that
 had passed; and they warned her once more not to open the door to
-anyone.
+anyone.</p>
 
-Meantime the queen went home to her glass, and shook with rage when she
-read the very same answer as before; and she said, ‘Snowdrop shall die,
-if it cost me my life.’ So she went by herself into her chamber, and got
+<p>Meantime the <character name="The New Queen" role="antagonist">queen</character> went home to her <character name="Looking-glass" role="magic object">glass</character>, and shook with rage when she
+read the very same answer as before; and she said, <dialog>‘Snowdrop shall die,
+if it cost me my life.’</dialog> So she went by herself into her chamber, and got
 ready a poisoned apple: the outside looked very rosy and tempting, but
 whoever tasted it was sure to die. Then she dressed herself up as a
-peasant’s wife, and travelled over the hills to the dwarfs’ cottage,
-and knocked at the door; but Snowdrop put her head out of the window and
-said, ‘I dare not let anyone in, for the dwarfs have told me not.’ ‘Do
-as you please,’ said the old woman, ‘but at any rate take this pretty
-apple; I will give it you.’ ‘No,’ said Snowdrop, ‘I dare not take it.’
-‘You silly girl!’ answered the other, ‘what are you afraid of? Do you
+peasant’s wife, and travelled over the hills to the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character>’ cottage,
+and knocked at the door; but <character name="Snowdrop" role="protagonist">Snowdrop</character> put her head out of the window and
+said, <dialog>‘I dare not let anyone in, for the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> have told me not.’ ‘Do
+as you please,’</dialog> said the old woman, <dialog>‘but at any rate take this pretty
+apple; I will give it you.’ ‘No,’</dialog> said <character name="Snowdrop" role="protagonist">Snowdrop</character>, <dialog>‘I dare not take it.’
+‘You silly girl!’</dialog> answered the other, <dialog>‘what are you afraid of? Do you
 think it is poisoned? Come! do you eat one part, and I will eat the
-other.’ Now the apple was so made up that one side was good, though the
-other side was poisoned. Then Snowdrop was much tempted to taste, for
+other.’</dialog> Now the apple was so made up that one side was good, though the
+other side was poisoned. Then <character name="Snowdrop" role="protagonist">Snowdrop</character> was much tempted to taste, for
 the apple looked so very nice; and when she saw the old woman eat, she
 could wait no longer. But she had scarcely put the piece into her mouth,
-when she fell down dead upon the ground. ‘This time nothing will save
-thee,’ said the queen; and she went home to her glass, and at last it
+when she fell down dead upon the ground. <dialog>‘This time nothing will save
+thee,’</dialog> said the <character name="The New Queen" role="antagonist">queen</character>; and she went home to her <character name="Looking-glass" role="magic object">glass</character>, and at last it
 said:
 
- ‘Thou, queen, art the fairest of all the fair.’
+ <dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> the fairest of all the fair.’</dialog></p>
 
-And then her wicked heart was glad, and as happy as such a heart could
-be.
+<p>And then her wicked heart was glad, and as happy as such a heart could
+be.</p>
 
-When evening came, and the dwarfs had gone home, they found Snowdrop
+<p>When evening came, and the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> had gone home, they found <character name="Snowdrop" role="protagonist">Snowdrop</character>
 lying on the ground: no breath came from her lips, and they were afraid
 that she was quite dead. They lifted her up, and combed her hair, and
 washed her face with wine and water; but all was in vain, for the little
-girl seemed quite dead. So they laid her down upon a bier, and all seven
+girl seemed quite dead. So they laid her down upon a <define>bier</define>, and all seven
 watched and bewailed her three whole days; and then they thought they
 would bury her: but her cheeks were still rosy; and her face looked just
-as it did while she was alive; so they said, ‘We will never bury her in
-the cold ground.’ And they made a coffin of glass, so that they might
+as it did while she was alive; so they said, <dialog>‘We will never bury her in
+the cold ground.’</dialog> And they made a coffin of glass, so that they might
 still look at her, and wrote upon it in golden letters what her name
 was, and that she was a king’s daughter. And the coffin was set among
-the hills, and one of the dwarfs always sat by it and watched. And the
-birds of the air came too, and bemoaned Snowdrop; and first of all came
-an owl, and then a raven, and at last a dove, and sat by her side.
+the hills, and one of the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> always sat by it and watched. And the
+birds of the air came too, and <define>bemoaned</define> <character name="Snowdrop" role="protagonist">Snowdrop</character>; and first of all came
+an owl, and then a raven, and at last a dove, and sat by her side.</p>
 
-And thus Snowdrop lay for a long, long time, and still only looked as
+<p>And thus <character name="Snowdrop" role="protagonist">Snowdrop</character> lay for a long, long time, and still only looked as
 though she was asleep; for she was even now as white as snow, and as red
-as blood, and as black as ebony. At last a prince came and called at the
-dwarfs’ house; and he saw Snowdrop, and read what was written in golden
-letters. Then he offered the dwarfs money, and prayed and besought them
-to let him take her away; but they said, ‘We will not part with her for
-all the gold in the world.’ At last, however, they had pity on him, and
+as blood, and as black as ebony. At last a <character name="The Prince" role="hero">dwarfs</character> came and called at the
+<character name="The Seven Dwarfs" role="Helpers">dwarfs</character>’ house; and he saw <character name="Snowdrop" role="protagonist">Snowdrop</character>, and read what was written in golden
+letters. Then he offered the <character name="The Seven Dwarfs" role="Helpers">dwarfs</character> money, and prayed and besought them
+to let him take her away; but they said, <dialog>‘We will not part with her for
+all the gold in the world.’</dialog> At last, however, they had pity on him, and
 gave him the coffin; but the moment he lifted it up to carry it home
-with him, the piece of apple fell from between her lips, and Snowdrop
-awoke, and said, ‘Where am I?’ And the prince said, ‘Thou art quite safe
-with me.’
+with him, the piece of apple fell from between her lips, and <character name="Snowdrop" role="protagonist">Snowdrop</character>
+awoke, and said, <dialog>‘Where am I?’</dialog> And the <character name="The Prince" role="hero">dwarfs</character> said, <dialog>‘<slang>Thou art</slang> quite safe
+with me.’</dialog></p>
 
-Then he told her all that had happened, and said, ‘I love you far better
+<p>Then he told her all that had happened, and said, <dialog>‘I love you far better
 than all the world; so come with me to my father’s palace, and you shall
-be my wife.’ And Snowdrop consented, and went home with the prince;
+be my wife.’</dialog> And <character name="Snowdrop" role="protagonist">Snowdrop</character> consented, and went home with the <character name="The Prince" role="hero">dwarfs</character>;
 and everything was got ready with great pomp and splendour for their
-wedding.
+wedding.</p>
 
-To the feast was asked, among the rest, Snowdrop’s old enemy the queen;
+<p>To the feast was asked, among the rest, <character name="Snowdrop" role="protagonist">Snowdrop</character>’s old enemy the <character name="The New Queen" role="antagonist">queen</character>;
 and as she was dressing herself in fine rich clothes, she looked in the
-glass and said:
+<character name="Looking-glass" role="magic object">glass</character> and said:
 
- ‘Tell me, glass, tell me true!
+ <dialog>‘Tell me, glass, tell me true!
   Of all the ladies in the land,
-  Who is fairest, tell me, who?’
+  Who is fairest, tell me, who?’</dialog></p>
 
-And the glass answered:
+<p>And the <character name="Looking-glass" role="magic object">glass</character> answered:
 
- ‘Thou, lady, art loveliest here, I ween;
-  But lovelier far is the new-made queen.’
+ <dialog>‘<slang>Thou</slang>, lady, <slang>art</slang> loveliest here, I <slang>ween</slang>;
+  But lovelier far is the new-made queen.’</dialog></p>
 
-When she heard this she started with rage; but her envy and curiosity
+<p>When she heard this she started with rage; but her envy and curiosity
 were so great, that she could not help setting out to see the bride. And
-when she got there, and saw that it was no other than Snowdrop, who, as
+when she got there, and saw that it was no other than <character name="Snowdrop" role="protagonist">Snowdrop</character>, who, as
 she thought, had been dead a long while, she choked with rage, and fell
-down and died: but Snowdrop and the prince lived and reigned happily
+down and died: but <character name="Snowdrop" role="protagonist">Snowdrop</character> and the <character name="The Prince" role="hero">dwarfs</character> lived and reigned happily
 over that land many, many years; and sometimes they went up into the
-mountains, and paid a visit to the little dwarfs, who had been so kind
-to Snowdrop in her time of need.
+mountains, and paid a visit to the little <character name="The Seven Dwarfs" role="Helpers">dwarfs</character>, who had been so kind
+to <character name="Snowdrop" role="protagonist">Snowdrop</character> in her time of need.</p>
+</story>
+<theme>Jealousy and Envy</theme>
+
+  </text>
+</xml>

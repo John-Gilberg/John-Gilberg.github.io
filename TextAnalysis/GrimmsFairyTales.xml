@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <text>
+<text>
 
 <story>
 <title>Hansel AND Gretel</title>
@@ -524,7 +524,7 @@ fastened the braids of hair, which she had cut off, to the hook of the
 window, and when <character name="The King's Son" role="Prince">the king’s son</character> came and cried:
 
  <dialog>‘Rapunzel, Rapunzel,
-  Let down your hair to me.’<dialog></p>
+  Let down your hair to me.’</dialog></p>
 
 <p>she let the hair down. <character name="The King's Son" role="Prince">The king’s son</character> ascended, but instead of finding
 his dearest <character name="Rapunzel" role="protagonist">Rapunzel</character>, he found the <character name="The Enchantress (Dame Gothel)" role="antagonist">enchantress</character>, who gazed at him with
@@ -583,7 +583,7 @@ Then the <character name="Looking-glass" role="magic object">glass</character> o
 as usual:
 
 <dialog>‘<slang>Thou</slang>, queen, <slang>art</slang> fair, and beauteous to see,
-  But Snowdrop is lovelier far than thee!’<dialog></p>
+  But Snowdrop is lovelier far than thee!’</dialog></p>
 
 <p>When she heard this she turned pale with rage and envy, and called to
 one of her servants, and said, <dialog>‘Take Snowdrop away into the wide wood,
@@ -782,5 +782,5 @@ to <character name="Snowdrop" role="protagonist">Snowdrop</character> in her tim
 </story>
 <theme>Jealousy and Envy</theme>
 
-  </text>
+</text>
 </xml>

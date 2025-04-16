@@ -5,8 +5,8 @@ ul.nav {
  	top: 0;
   padding-left: 0;
 	padding-right: 0;
-  right: 16;
-  width: 84%;
+	right: 16;
+	width: 71.41%;
 }
 
 li.nav {
@@ -19,7 +19,7 @@ li.nav a {
 	display: block;
     color: lightgreen;
   	text-align: center;
-    padding: 12px 36px;
+		padding: 8px 24px;
   	text-decoration: none;
 }
 
@@ -39,4 +39,22 @@ header.resume {
 
 td.right {
 	padding-left: 25;
+}
+
+h1 {
+	margin-top: 8%;
+	text-align: center;
+}
+
+iframe.eliza {
+	padding-left: 8%;
+	flex-grow: 2;
+	border: none;
+	margin-top: -1%
+}
+
+div.eliza {
+	display: flex;
+	flex-flow: row;
+	height: 100%
 }
